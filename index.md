@@ -15,7 +15,7 @@ Here is a list of some of my open source projects:
 
 ### JSLK
 An x86 hobby kernel written mostly in C with some bits of assembly.
-[More](/jslk.md){: .btn}
+[More](/jslk.md)
 
 
 ## Contact
