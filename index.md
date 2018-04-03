@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/sofferjacob/sofferjacob.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a (hobbyist) software developer who works mostly in low-level stuff using C or C++ and IOS app development. I can code in:
+* C
+* C++
+* Swift
+* C#
+* JavaScript
+* HTML
+* CSS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+Here is a list of some of my open source projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### JSLK
+An x86 hobby kernel written mostly in C with some bits of assembly.
+[More](http://www.google.com){: .btn}
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sofferjacob/sofferjacob.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me at [sofferjacob@gmail.com](mailto:sofferjacob@gmail.com)
