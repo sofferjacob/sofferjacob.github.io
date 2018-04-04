@@ -1,8 +1,8 @@
 <!-- taken from v86 emulator examples, https://github.com/copy/v86 -->
 <!doctype html>
-<title>JSLK</title>
+<title>JSLK Testdrive</title>
 
-<script src="build/libv86.js"></script>
+<script src="/build/libv86.js"></script>
 <script>
 "use strict";
 window.onload = function()
@@ -12,13 +12,13 @@ window.onload = function()
         vga_memory_size: 8 * 1024 * 1024,
         screen_container: document.getElementById("screen_container"),
         bios: {
-            url: "build/seabios.bin",
+            url: "/build/seabios.bin",
         },
         vga_bios: {
-            url: "build/vgabios.bin",
+            url: "/build/vgabios.bin",
         },
         cdrom: {
-            url: "build/jslk.iso",
+            url: "/build/jslk.iso",
             async: true,
             size: 8 * 1024 * 1024 * 1024,
         },
