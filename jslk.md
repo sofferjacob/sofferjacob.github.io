@@ -12,3 +12,5 @@ JSLK is a simple 32-bit hobby kernel designed to run on the x86 architecture (al
 [Download current source tree](https://github.com/sofferjacob/jslk/archive/master.zip)
 
 [Downloads](https://github.com/sofferjacob/jslk/releases)
+
+<a href="/testdrive.html" class="btn">Test online</a>
