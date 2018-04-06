@@ -9,6 +9,8 @@ I am a (hobbyist) software developer who works mostly in low-level stuff using C
 * HTML
 * CSS
 
+You can check my Github page and public repos [here.](https://github.com/sofferjacob)
+
 ## Projects
 
 Here is a list of some of my open source projects:
