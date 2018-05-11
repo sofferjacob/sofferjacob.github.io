@@ -1,13 +1,21 @@
 ## About me
 
-I am a (hobbyist) software developer who works mostly in low-level stuff using C or C++ and IOS app development. I can code in:
+I am a (hobbyist) software developer who works mostly in low-level stuff using C or C++ and mobile app development. I can code in:
 * C
 * C++
+* Dart
 * Swift
 * C#
 * JavaScript
 * HTML
 * CSS
+
+I also use frameworks and programs such as:
+* Flutter
+* Firebase
+* Xcode
+* Unity
+And others
 
 You can check my Github page and public repos [here.](https://github.com/sofferjacob)
 
