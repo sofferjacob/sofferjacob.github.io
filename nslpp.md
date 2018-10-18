@@ -1,4 +1,4 @@
-# Política de Privacidad
+# Política de Privacidad de Nutrición SL
 Alex Cherem construyó la aplicación Nutrición SL como una aplicación comercial. Este servicio es proporcionado por Alex Cherem y está diseñado para ser utilizado tal como está.
 
 Esta página se utiliza para informar a los visitantes sobre mis políticas con la recopilación, el uso y la divulgación de información personal si alguien decide usar mi Servicio.
