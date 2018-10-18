@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for Nutricion SL
 
 Política de privacidad tambien disponible en [Español](https://sofferjacob.github.io/nslpp).
 
